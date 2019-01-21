@@ -19,6 +19,10 @@ A. Gradle 빌드 이해 (window 환경)
       2: kotlin
     Enter selection (default: kotlin) [1..2] 1
     
+B. Ubuntu Gradle 빌드
+  1. curl 설치 -> $ sudo apt install curl
+  2. Add node.js PPA(personal package archive) -> $ curl -sL https://deb.nodesource.com/setup_8.x | sudo bash -
+  
     
   
   
