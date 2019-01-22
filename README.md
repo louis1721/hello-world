@@ -20,8 +20,10 @@ A. Gradle 빌드 이해 (window 환경)
     Enter selection (default: kotlin) [1..2] 1
     
 B. Ubuntu Gradle 빌드
-  1. curl 설치 -> $ sudo apt install curl
-  2. Add node.js PPA(personal package archive) -> $ curl -sL https://deb.nodesource.com/setup_8.x | sudo bash -
+  1. Android-sdk install  (sdk update higher than API level 24 including 24)
+  2. curl 설치 -> $ sudo apt install curl
+  3. Add node.js PPA(personal package archive) -> $ curl -sL https://deb.nodesource.com/setup_8.x | sudo bash -
+ 
   
     
   
