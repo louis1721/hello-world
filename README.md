@@ -21,6 +21,12 @@ A. Gradle 빌드 이해 (window 환경)
     
 B. Ubuntu Gradle 빌드
   1. Android-sdk install  (sdk update higher than API level 24 including 24)
+  2. ANDROID_HOME
+    1. check $HOME -> $ echo $HOME
+    2. edit bashrc -> $ vim ~/.bashrc
+    3. add below line
+      export ANDROID_HOME=$HOME/Android/Sdk
+      export PATH=$PATH:$ANDROID_HOME/tools      
   2. curl 설치 -> $ sudo apt install curl
   3. Add node.js PPA(personal package archive) -> $ curl -sL https://deb.nodesource.com/setup_8.x | sudo bash -
  
