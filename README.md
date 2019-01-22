@@ -29,6 +29,8 @@ B. Ubuntu Gradle 빌드
       export PATH=$PATH:$ANDROID_HOME/tools      
   2. curl 설치 -> $ sudo apt install curl
   3. Add node.js PPA(personal package archive) -> $ curl -sL https://deb.nodesource.com/setup_8.x | sudo bash -
+  4. sudo apt-get install nodejs
+
  
   
     
